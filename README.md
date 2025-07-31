@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/krishjha1121/Leetcode/tree/master/0001-two-sum) |
 | [0064-minimum-path-sum](https://github.com/krishjha1121/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/krishjha1121/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/krishjha1121/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/krishjha1121/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/krishjha1121/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/krishjha1121/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/krishjha1121/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 ## Matrix
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/krishjha1121/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/krishjha1121/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/krishjha1121/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Brainteaser
