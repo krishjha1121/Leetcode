@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/krishjha1121/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2689-rearranging-fruits](https://github.com/krishjha1121/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/krishjha1121/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3791-fruits-into-baskets-iii](https://github.com/krishjha1121/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/krishjha1121/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/krishjha1121/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/krishjha1121/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3791-fruits-into-baskets-iii](https://github.com/krishjha1121/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -130,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishjha1121/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/krishjha1121/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/krishjha1121/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
