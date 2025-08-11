@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/krishjha1121/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishjha1121/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/krishjha1121/Leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/krishjha1121/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishjha1121/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/krishjha1121/Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/krishjha1121/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/krishjha1121/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/krishjha1121/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/krishjha1121/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Two Pointers
