@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/krishjha1121/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/krishjha1121/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/krishjha1121/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/krishjha1121/Leetcode/tree/master/0224-basic-calculator) |
 | [0433-minimum-genetic-mutation](https://github.com/krishjha1121/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/krishjha1121/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1078-remove-outermost-parentheses](https://github.com/krishjha1121/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/krishjha1121/Leetcode/tree/master/0071-simplify-path) |
+| [0224-basic-calculator](https://github.com/krishjha1121/Leetcode/tree/master/0224-basic-calculator) |
 | [1078-remove-outermost-parentheses](https://github.com/krishjha1121/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/krishjha1121/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Dynamic Programming
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/krishjha1121/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/krishjha1121/Leetcode/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/krishjha1121/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/krishjha1121/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/krishjha1121/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/krishjha1121/Leetcode/tree/master/0342-power-of-four) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/krishjha1121/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/krishjha1121/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/krishjha1121/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/krishjha1121/Leetcode/tree/master/0342-power-of-four) |
