@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/krishjha1121/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/krishjha1121/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/krishjha1121/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/krishjha1121/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/krishjha1121/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/krishjha1121/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/krishjha1121/Leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/krishjha1121/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0945-snakes-and-ladders](https://github.com/krishjha1121/Leetcode/tree/master/0945-snakes-and-ladders) |
 ## Graph
 |  |
@@ -265,4 +267,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/krishjha1121/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+## Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/krishjha1121/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/krishjha1121/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/krishjha1121/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
