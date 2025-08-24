@@ -4,9 +4,9 @@ private:
         for(auto it : nums){
             if(it == 0) return false;
         }
-
         return true;
     }
+
 public:
     int longestSubarray(vector<int>& nums) {
         int n = nums.size();
@@ -14,14 +14,22 @@ public:
 
         int maxi = 0;
 
-        for(int left = 0; left < n; left++){
-            int cnt = 0;
+        int left = 0;
+        int right = 0;
+        int cnt = 0;
 
-            for(int right = left; right < n; right++){
-                if(nums[right] == 0) cnt++;
-                if(cnt == 2) break;
-                maxi = max(maxi, right - left + 1);
+        while(right < n){
+            if(nums[right] == 0){
+                cnt++;
             }
+
+            while(cnt > 1 && left < n){
+                if(nums[left] == 0) cnt--;
+                left++;
+            }
+
+            maxi = max(maxi, right - left + 1);
+            right++;
         }
 
         return maxi - 1;
