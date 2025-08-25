@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/krishjha1121/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/krishjha1121/Leetcode/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/krishjha1121/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/krishjha1121/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/krishjha1121/Leetcode/tree/master/0133-clone-graph) |
 | [0205-isomorphic-strings](https://github.com/krishjha1121/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/krishjha1121/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishjha1121/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0940-fruit-into-baskets](https://github.com/krishjha1121/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/krishjha1121/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/krishjha1121/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/krishjha1121/Leetcode/tree/master/0013-roman-to-integer) |
 | [0071-simplify-path](https://github.com/krishjha1121/Leetcode/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/krishjha1121/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/krishjha1121/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/krishjha1121/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/krishjha1121/Leetcode/tree/master/0205-isomorphic-strings) |
