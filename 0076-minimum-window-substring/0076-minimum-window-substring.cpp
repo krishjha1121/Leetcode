@@ -5,36 +5,32 @@ public:
         int m = t.size();
         if (m > n) return "";
 
-        unordered_map<char,int> need;
-        for (char c : t) need[c]++;
+        vector<int> need(256, 0);   // freq of characters in t
+        for (char ch : t) need[ch]++;
 
-        int required = need.size();   // distinct chars in t
-        int formed = 0;               // how many distinct chars are satisfied
-
-        unordered_map<char,int> window;
+        int required = m;           // total characters we need to match
         int left = 0, right = 0;
         int mini = INT_MAX;
         int startIdx = 0;
 
         while (right < n) {
-            char c = s[right];
-            window[c]++;
-
-            if (need.count(c) && window[c] == need[c]) {
-                formed++;
+            // Take current char into window
+            if (need[s[right]] > 0) {
+                required--;
             }
+            need[s[right]]--;
 
-            while (left <= right && formed == required) {
+            // When all chars matched
+            while (required == 0) {
                 if (right - left + 1 < mini) {
                     mini = right - left + 1;
                     startIdx = left;
                 }
 
-                char leftChar = s[left];
-                window[leftChar]--;
-
-                if (need.count(leftChar) && window[leftChar] < need[leftChar]) {
-                    formed--;
+                // Try to shrink from left
+                need[s[left]]++;
+                if (need[s[left]] > 0) {
+                    required++;
                 }
                 left++;
             }
