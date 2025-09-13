@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishjha1121/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/krishjha1121/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishjha1121/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/krishjha1121/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/krishjha1121/Leetcode/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/krishjha1121/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishjha1121/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/krishjha1121/Leetcode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/krishjha1121/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/krishjha1121/Leetcode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/krishjha1121/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/krishjha1121/Leetcode/tree/master/0133-clone-graph) |
 | [0205-isomorphic-strings](https://github.com/krishjha1121/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/krishjha1121/Leetcode/tree/master/0242-valid-anagram) |
@@ -357,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/krishjha1121/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/krishjha1121/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
