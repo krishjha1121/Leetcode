@@ -1,32 +1,24 @@
 class Solution {
 public:
     int canBeTypedWords(string text, string brokenLetters) {
-        set<char> st;
-        for(auto it : brokenLetters){
-            st.insert(it);
-        }
-
+        vector<int> v(26, 0);
+        int result = 0;
         int cnt = 0;
-        for(int i = 0; i < text.size(); i++){
-            string temp = "";
 
-            while(text[i] != ' ' && i < text.size()){
-                temp += text[i];
-                i++;
-            }
-
-            cout << temp << endl;
-            bool flag = false;
-            for(int k = 0; k < temp.size(); k++){
-                if(st.find(temp[k]) != st.end()){
-                    flag = true;
-                    break;
-                }
-            }       
-
-            if(!flag) cnt++;
+        for(char it : brokenLetters){
+            v[it - 'a']++;
         }
 
-        return cnt;
+        for(int i = 0; i < text.size(); i++){
+            if(text[i] == ' '){
+                result += (cnt == 0);
+                cnt = 0;
+            }else if(v[text[i] - 'a'] == 1){
+                cnt++;
+            }
+        }
+
+        if(cnt == 0) result++;
+        return result;
     }
 };
