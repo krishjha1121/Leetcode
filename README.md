@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/krishjha1121/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3791-fruits-into-baskets-iii](https://github.com/krishjha1121/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/krishjha1121/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/krishjha1121/Leetcode/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/krishjha1121/Leetcode/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/krishjha1121/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/krishjha1121/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/krishjha1121/Leetcode/tree/master/3827-implement-router) |
 ## Sliding Window
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/krishjha1121/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/krishjha1121/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3791-fruits-into-baskets-iii](https://github.com/krishjha1121/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/krishjha1121/Leetcode/tree/master/3827-implement-router) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3678-design-task-manager](https://github.com/krishjha1121/Leetcode/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/krishjha1121/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/krishjha1121/Leetcode/tree/master/3827-implement-router) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/krishjha1121/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [3678-design-task-manager](https://github.com/krishjha1121/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/krishjha1121/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/krishjha1121/Leetcode/tree/master/3827-implement-router) |
 ## Randomized
 |  |
 | ------- |
@@ -340,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/krishjha1121/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [3827-implement-router](https://github.com/krishjha1121/Leetcode/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
