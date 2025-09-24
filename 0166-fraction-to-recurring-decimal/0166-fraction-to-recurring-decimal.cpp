@@ -10,9 +10,9 @@ public:
         if(n1 > 0 and d1 < 0 or n1 < 0 and d1 > 0){
             temp += '-';
         }
-        long n = abs(n1);
-        long d = abs(d1);
-        
+        long long n = abs((long long)n1);
+        long long d = abs((long long)d1);
+
         ans += to_string(n/d);
         n %= d;
         if(n){
