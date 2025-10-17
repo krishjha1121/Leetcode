@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/krishjha1121/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/krishjha1121/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishjha1121/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krishjha1121/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/krishjha1121/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/krishjha1121/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishjha1121/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/krishjha1121/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/krishjha1121/Leetcode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/krishjha1121/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krishjha1121/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/krishjha1121/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/krishjha1121/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/krishjha1121/Leetcode/tree/master/0133-clone-graph) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/krishjha1121/Leetcode/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krishjha1121/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishjha1121/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/krishjha1121/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Segment Tree
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/krishjha1121/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krishjha1121/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/krishjha1121/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/krishjha1121/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/krishjha1121/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krishjha1121/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/krishjha1121/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/krishjha1121/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Monotonic Stack
