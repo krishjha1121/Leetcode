@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/krishjha1121/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/krishjha1121/Leetcode/tree/master/0397-integer-replacement) |
 | [0611-valid-triangle-number](https://github.com/krishjha1121/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0670-maximum-swap](https://github.com/krishjha1121/Leetcode/tree/master/0670-maximum-swap) |
 | [1448-maximum-69-number](https://github.com/krishjha1121/Leetcode/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/krishjha1121/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/krishjha1121/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/krishjha1121/Leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/krishjha1121/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/krishjha1121/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0670-maximum-swap](https://github.com/krishjha1121/Leetcode/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/krishjha1121/Leetcode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/krishjha1121/Leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/krishjha1121/Leetcode/tree/master/0900-reordered-power-of-2) |
