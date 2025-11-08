@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/krishjha1121/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/krishjha1121/Leetcode/tree/master/0397-integer-replacement) |
 | [0787-sliding-puzzle](https://github.com/krishjha1121/Leetcode/tree/master/0787-sliding-puzzle) |
+| [0806-domino-and-tromino-tiling](https://github.com/krishjha1121/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/krishjha1121/Leetcode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/krishjha1121/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/krishjha1121/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
