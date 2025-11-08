@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/krishjha1121/Leetcode/tree/master/0679-24-game) |
 | [0787-sliding-puzzle](https://github.com/krishjha1121/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/krishjha1121/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [0797-rabbits-in-forest](https://github.com/krishjha1121/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/krishjha1121/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/krishjha1121/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/krishjha1121/Leetcode/tree/master/0945-snakes-and-ladders) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/krishjha1121/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/krishjha1121/Leetcode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/krishjha1121/Leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/krishjha1121/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/krishjha1121/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/krishjha1121/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/krishjha1121/Leetcode/tree/master/1006-vowel-spellchecker) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/krishjha1121/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/krishjha1121/Leetcode/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/krishjha1121/Leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/krishjha1121/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1448-maximum-69-number](https://github.com/krishjha1121/Leetcode/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/krishjha1121/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/krishjha1121/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/krishjha1121/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0670-maximum-swap](https://github.com/krishjha1121/Leetcode/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/krishjha1121/Leetcode/tree/master/0679-24-game) |
+| [0797-rabbits-in-forest](https://github.com/krishjha1121/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/krishjha1121/Leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/krishjha1121/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/krishjha1121/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
