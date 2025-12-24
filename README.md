@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/krishjha1121/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/krishjha1121/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/krishjha1121/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0636-exclusive-time-of-functions](https://github.com/krishjha1121/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/krishjha1121/Leetcode/tree/master/0645-set-mismatch) |
 | [0679-24-game](https://github.com/krishjha1121/Leetcode/tree/master/0679-24-game) |
 | [0787-sliding-puzzle](https://github.com/krishjha1121/Leetcode/tree/master/0787-sliding-puzzle) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishjha1121/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/krishjha1121/Leetcode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/krishjha1121/Leetcode/tree/master/0394-decode-string) |
+| [0636-exclusive-time-of-functions](https://github.com/krishjha1121/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [1078-remove-outermost-parentheses](https://github.com/krishjha1121/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/krishjha1121/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/krishjha1121/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
