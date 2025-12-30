@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/krishjha1121/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/krishjha1121/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/krishjha1121/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1451-rearrange-words-in-a-sentence](https://github.com/krishjha1121/Leetcode/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/krishjha1121/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/krishjha1121/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/krishjha1121/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/krishjha1121/Leetcode/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/krishjha1121/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishjha1121/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1451-rearrange-words-in-a-sentence](https://github.com/krishjha1121/Leetcode/tree/master/1451-rearrange-words-in-a-sentence) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/krishjha1121/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/krishjha1121/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/krishjha1121/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
