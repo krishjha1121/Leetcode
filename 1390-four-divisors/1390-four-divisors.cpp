@@ -23,9 +23,8 @@ public:
         int res = 0;
         int n = nums.size();
         for(int i = 0; i < n; i++){
-            pair<bool, int> temp = onlyFour(nums[i]);
-            if(temp.first) {
-                res += temp.second;
+            if(onlyFour(nums[i]).first) {
+                res += onlyFour(nums[i]).second;
             }
         }
         return res;
