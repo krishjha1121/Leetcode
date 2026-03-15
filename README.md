@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/krishjha1121/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/krishjha1121/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/krishjha1121/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/krishjha1121/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/krishjha1121/Leetcode/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/krishjha1121/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/krishjha1121/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/krishjha1121/Leetcode/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/krishjha1121/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0787-sliding-puzzle](https://github.com/krishjha1121/Leetcode/tree/master/0787-sliding-puzzle) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/krishjha1121/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/krishjha1121/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/krishjha1121/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Queue
