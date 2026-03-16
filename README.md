@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/krishjha1121/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/krishjha1121/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/krishjha1121/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0785-is-graph-bipartite](https://github.com/krishjha1121/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/krishjha1121/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/krishjha1121/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/krishjha1121/Leetcode/tree/master/0827-making-a-large-island) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/krishjha1121/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/krishjha1121/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/krishjha1121/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0785-is-graph-bipartite](https://github.com/krishjha1121/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-sliding-puzzle](https://github.com/krishjha1121/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/krishjha1121/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/krishjha1121/Leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -671,4 +673,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/krishjha1121/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/krishjha1121/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/krishjha1121/Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
