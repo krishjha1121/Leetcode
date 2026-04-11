@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/krishjha1121/Leetcode/tree/master/3583-count-special-triplets) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/krishjha1121/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/krishjha1121/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/krishjha1121/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/krishjha1121/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/krishjha1121/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3791-fruits-into-baskets-iii](https://github.com/krishjha1121/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/krishjha1121/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3583-count-special-triplets](https://github.com/krishjha1121/Leetcode/tree/master/3583-count-special-triplets) |
 | [3678-design-task-manager](https://github.com/krishjha1121/Leetcode/tree/master/3678-design-task-manager) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/krishjha1121/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/krishjha1121/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/krishjha1121/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/krishjha1121/Leetcode/tree/master/3827-implement-router) |
