@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/krishjha1121/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/krishjha1121/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishjha1121/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/krishjha1121/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/krishjha1121/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/krishjha1121/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/krishjha1121/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/krishjha1121/Leetcode/tree/master/0133-clone-graph) |
 | [0166-fraction-to-recurring-decimal](https://github.com/krishjha1121/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/krishjha1121/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/krishjha1121/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/krishjha1121/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/krishjha1121/Leetcode/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/krishjha1121/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/krishjha1121/Leetcode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/krishjha1121/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krishjha1121/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/krishjha1121/Leetcode/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/krishjha1121/Leetcode/tree/master/0324-wiggle-sort-ii) |
