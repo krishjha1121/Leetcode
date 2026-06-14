@@ -1,17 +1,15 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
+        map<int, int> numToIndex;
         int n = nums.size();
-        map<int , int> mpp;
-
-        for(int i=0;i<n;i++){
-            int a = nums[i];
-            int req = target - a;
-            if(mpp.find(req) != mpp.end()){
-                return {mpp[req] , i};
+        for(int i = 0; i < n; i++){
+            int req = target - nums[i];
+            if(numToIndex.count(req)){
+                return {i, numToIndex[req]};
             }
-            mpp[a] = i;
+            numToIndex[nums[i]] = i;
         }
-        return {-1 , -1};
+        return {-1, -1};
     }
 };
