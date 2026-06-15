@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/krishjha1121/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/krishjha1121/Leetcode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishjha1121/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/krishjha1121/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/krishjha1121/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/krishjha1121/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishjha1121/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/krishjha1121/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishjha1121/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishjha1121/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/krishjha1121/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/krishjha1121/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/krishjha1121/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/krishjha1121/Leetcode/tree/master/0397-integer-replacement) |
