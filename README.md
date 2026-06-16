@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/krishjha1121/Leetcode/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/krishjha1121/Leetcode/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/krishjha1121/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/krishjha1121/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/krishjha1121/Leetcode/tree/master/0268-missing-number) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/krishjha1121/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krishjha1121/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krishjha1121/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0190-reverse-bits](https://github.com/krishjha1121/Leetcode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishjha1121/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/krishjha1121/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/krishjha1121/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
