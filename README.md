@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/krishjha1121/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/krishjha1121/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/krishjha1121/Leetcode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/krishjha1121/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/krishjha1121/Leetcode/tree/master/0397-integer-replacement) |
 | [0645-set-mismatch](https://github.com/krishjha1121/Leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/krishjha1121/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/krishjha1121/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/krishjha1121/Leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/krishjha1121/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0371-sum-of-two-integers](https://github.com/krishjha1121/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/krishjha1121/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0670-maximum-swap](https://github.com/krishjha1121/Leetcode/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/krishjha1121/Leetcode/tree/master/0679-24-game) |
