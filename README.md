@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/krishjha1121/Leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/krishjha1121/Leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/krishjha1121/Leetcode/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/krishjha1121/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/krishjha1121/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/krishjha1121/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/krishjha1121/Leetcode/tree/master/0768-partition-labels) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/krishjha1121/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/krishjha1121/Leetcode/tree/master/0397-integer-replacement) |
 | [0474-ones-and-zeroes](https://github.com/krishjha1121/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0647-palindromic-substrings](https://github.com/krishjha1121/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/krishjha1121/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0787-sliding-puzzle](https://github.com/krishjha1121/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0806-domino-and-tromino-tiling](https://github.com/krishjha1121/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/krishjha1121/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/krishjha1121/Leetcode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/krishjha1121/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0647-palindromic-substrings](https://github.com/krishjha1121/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/krishjha1121/Leetcode/tree/master/0768-partition-labels) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/krishjha1121/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/krishjha1121/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
