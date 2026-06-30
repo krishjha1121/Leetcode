@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/krishjha1121/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1189-maximum-number-of-balloons](https://github.com/krishjha1121/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/krishjha1121/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishjha1121/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishjha1121/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/krishjha1121/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/krishjha1121/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/krishjha1121/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/krishjha1121/Leetcode/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/krishjha1121/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishjha1121/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/krishjha1121/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/krishjha1121/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/krishjha1121/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/krishjha1121/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/krishjha1121/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/krishjha1121/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishjha1121/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/krishjha1121/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/krishjha1121/Leetcode/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/krishjha1121/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
