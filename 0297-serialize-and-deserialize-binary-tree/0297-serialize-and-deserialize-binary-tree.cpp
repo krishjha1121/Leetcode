@@ -11,34 +11,33 @@ class Codec {
 public:
     // Encodes a tree to a single string.
     string serialize(TreeNode* root) {
-        if(root == NULL){
-            return "";
-        }
+        if(!root) return "";
         string s = "";
         queue<TreeNode*> q;
         q.push(root);
         while(!q.empty()){
-            TreeNode* currNode = q.front();
+            TreeNode* node = q.front();
             q.pop();
-            if(currNode == NULL){
-                s.append("#,");
+            if(node == NULL){
+                s += "#,";
+            }else{
+                s += to_string(node -> val);
+                s += ",";
             }
-            else{
-                s.append(to_string(currNode -> val) + ',');
-            }
-            if(currNode){
-                q.push(currNode -> left);
-                q.push(currNode -> right);
+            if(node){
+                q.push(node -> left);
+                q.push(node -> right);
             }
         }
         return s;
     }
+
     // Decodes your encoded data to tree.
     TreeNode* deserialize(string data) {
-        if(data.size() == 0) return NULL;
+        if(!data.size()) return NULL;
         stringstream s(data);
         string str;
-        getline(s , str, ',');
+        getline(s, str, ',');
         TreeNode* root = new TreeNode(stoi(str));
         queue<TreeNode*> q;
         q.push(root);
