@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/krishjha1121/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/krishjha1121/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/krishjha1121/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/krishjha1121/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/krishjha1121/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/krishjha1121/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/krishjha1121/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/krishjha1121/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/krishjha1121/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/krishjha1121/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/krishjha1121/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/krishjha1121/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/krishjha1121/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3748-sort-matrix-by-diagonals](https://github.com/krishjha1121/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/krishjha1121/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1046-last-stone-weight](https://github.com/krishjha1121/Leetcode/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/krishjha1121/Leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/krishjha1121/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3678-design-task-manager](https://github.com/krishjha1121/Leetcode/tree/master/3678-design-task-manager) |
 ## Bucket Sort
 |  |
@@ -662,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/krishjha1121/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1306-jump-game-iii](https://github.com/krishjha1121/Leetcode/tree/master/1306-jump-game-iii) |
 | [1462-course-schedule-iv](https://github.com/krishjha1121/Leetcode/tree/master/1462-course-schedule-iv) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/krishjha1121/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -793,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/krishjha1121/Leetcode/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/krishjha1121/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1192-critical-connections-in-a-network](https://github.com/krishjha1121/Leetcode/tree/master/1192-critical-connections-in-a-network) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/krishjha1121/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -808,4 +813,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/krishjha1121/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/krishjha1121/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
