@@ -10,20 +10,22 @@
  * };
  */
 class Solution {
-public:
-    void Inorder(TreeNode* root , vector<int> &inorder){
-        if(root == NULL) return;
+private:
+    void findInorder(TreeNode* node, vector<int>& in){
+        if(!node) return;
 
-        Inorder(root -> left , inorder);
-        inorder.push_back(root -> val);
-        Inorder(root -> right , inorder);
+        findInorder(node -> left, in);
+        in.push_back(node -> val);
+        findInorder(node -> right, in);
     }
+public:
     bool isValidBST(TreeNode* root) {
+        if(!root) return true;
         vector<int> inorder;
-        Inorder(root, inorder);
+        findInorder(root, inorder);
 
-        for(int i = 0 ; i < inorder.size() - 1; i++){
-            if(inorder[i] >= inorder[i + 1]) return false;
+        for(int i = 1; i < inorder.size(); i++){
+            if(inorder[i] <= inorder[i - 1]) return false;
         }
         return true;
     }
