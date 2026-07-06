@@ -806,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/krishjha1121/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/krishjha1121/Leetcode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/krishjha1121/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/krishjha1121/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
