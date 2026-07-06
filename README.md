@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/krishjha1121/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1046-last-stone-weight](https://github.com/krishjha1121/Leetcode/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/krishjha1121/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/krishjha1121/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/krishjha1121/Leetcode/tree/master/1306-jump-game-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krishjha1121/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/krishjha1121/Leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/krishjha1121/Leetcode/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/krishjha1121/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1200-minimum-absolute-difference](https://github.com/krishjha1121/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/krishjha1121/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishjha1121/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/krishjha1121/Leetcode/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/krishjha1121/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
