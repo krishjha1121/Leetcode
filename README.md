@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/krishjha1121/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/krishjha1121/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/krishjha1121/Leetcode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/krishjha1121/Leetcode/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/krishjha1121/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/krishjha1121/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/krishjha1121/Leetcode/tree/master/0165-compare-version-numbers) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/krishjha1121/Leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/krishjha1121/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/krishjha1121/Leetcode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/krishjha1121/Leetcode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/krishjha1121/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/krishjha1121/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishjha1121/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
