@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/krishjha1121/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/krishjha1121/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/krishjha1121/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/krishjha1121/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/krishjha1121/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/krishjha1121/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/krishjha1121/Leetcode/tree/master/0091-decode-ways) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/krishjha1121/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/krishjha1121/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/krishjha1121/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/krishjha1121/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishjha1121/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/krishjha1121/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -814,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/krishjha1121/Leetcode/tree/master/0062-unique-paths) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/krishjha1121/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Number Theory
 |  |
