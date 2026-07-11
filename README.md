@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/krishjha1121/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/krishjha1121/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/krishjha1121/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/krishjha1121/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/krishjha1121/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/krishjha1121/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishjha1121/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/krishjha1121/Leetcode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/krishjha1121/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/krishjha1121/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1143-longest-common-subsequence](https://github.com/krishjha1121/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/krishjha1121/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/krishjha1121/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1504-count-submatrices-with-all-ones](https://github.com/krishjha1121/Leetcode/tree/master/1504-count-submatrices-with-all-ones) |
