@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/krishjha1121/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0827-making-a-large-island](https://github.com/krishjha1121/Leetcode/tree/master/0827-making-a-large-island) |
 | [0848-shifting-letters](https://github.com/krishjha1121/Leetcode/tree/master/0848-shifting-letters) |
+| [0877-stone-game](https://github.com/krishjha1121/Leetcode/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/krishjha1121/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0916-word-subsets](https://github.com/krishjha1121/Leetcode/tree/master/0916-word-subsets) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/krishjha1121/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/krishjha1121/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0806-domino-and-tromino-tiling](https://github.com/krishjha1121/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/krishjha1121/Leetcode/tree/master/0826-soup-servings) |
+| [0877-stone-game](https://github.com/krishjha1121/Leetcode/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/krishjha1121/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/krishjha1121/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/krishjha1121/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/krishjha1121/Leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/krishjha1121/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/krishjha1121/Leetcode/tree/master/0826-soup-servings) |
+| [0877-stone-game](https://github.com/krishjha1121/Leetcode/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/krishjha1121/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/krishjha1121/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/krishjha1121/Leetcode/tree/master/1390-four-divisors) |
@@ -898,4 +901,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/krishjha1121/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/krishjha1121/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
