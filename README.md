@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/krishjha1121/Leetcode/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/krishjha1121/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/krishjha1121/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/krishjha1121/Leetcode/tree/master/1406-stone-game-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/krishjha1121/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/krishjha1121/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/krishjha1121/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/krishjha1121/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/krishjha1121/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/krishjha1121/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/krishjha1121/Leetcode/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/krishjha1121/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1504-count-submatrices-with-all-ones](https://github.com/krishjha1121/Leetcode/tree/master/1504-count-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/krishjha1121/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/krishjha1121/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/krishjha1121/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/krishjha1121/Leetcode/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/krishjha1121/Leetcode/tree/master/1406-stone-game-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/krishjha1121/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/krishjha1121/Leetcode/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/krishjha1121/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -902,4 +905,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/krishjha1121/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/krishjha1121/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/krishjha1121/Leetcode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/krishjha1121/Leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/krishjha1121/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
