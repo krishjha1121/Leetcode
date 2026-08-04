@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/krishjha1121/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/krishjha1121/Leetcode/tree/master/0518-coin-change-ii) |
 | [0611-valid-triangle-number](https://github.com/krishjha1121/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/krishjha1121/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishjha1121/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/krishjha1121/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/krishjha1121/Leetcode/tree/master/0645-set-mismatch) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krishjha1121/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/krishjha1121/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/krishjha1121/Leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/krishjha1121/Leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/krishjha1121/Leetcode/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/krishjha1121/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/krishjha1121/Leetcode/tree/master/0768-partition-labels) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/krishjha1121/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/krishjha1121/Leetcode/tree/master/0397-integer-replacement) |
 | [0611-valid-triangle-number](https://github.com/krishjha1121/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/krishjha1121/Leetcode/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/krishjha1121/Leetcode/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/krishjha1121/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/krishjha1121/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/krishjha1121/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/krishjha1121/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0611-valid-triangle-number](https://github.com/krishjha1121/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/krishjha1121/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishjha1121/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/krishjha1121/Leetcode/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/krishjha1121/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -543,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/krishjha1121/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/krishjha1121/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/krishjha1121/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/krishjha1121/Leetcode/tree/master/0621-task-scheduler) |
 | [0794-swim-in-rising-water](https://github.com/krishjha1121/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/krishjha1121/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/krishjha1121/Leetcode/tree/master/1046-last-stone-weight) |
@@ -560,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/krishjha1121/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/krishjha1121/Leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/krishjha1121/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/krishjha1121/Leetcode/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/krishjha1121/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1189-maximum-number-of-balloons](https://github.com/krishjha1121/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/krishjha1121/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
