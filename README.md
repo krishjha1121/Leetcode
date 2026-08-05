@@ -721,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/krishjha1121/Leetcode/tree/master/1306-jump-game-iii) |
 | [1462-course-schedule-iv](https://github.com/krishjha1121/Leetcode/tree/master/1462-course-schedule-iv) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/krishjha1121/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/krishjha1121/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-course-schedule-iv](https://github.com/krishjha1121/Leetcode/tree/master/1462-course-schedule-iv) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/krishjha1121/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/krishjha1121/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/krishjha1121/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph
 |  |
 | ------- |
@@ -896,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/krishjha1121/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/krishjha1121/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/krishjha1121/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/krishjha1121/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/krishjha1121/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Biconnected Component
 |  |
