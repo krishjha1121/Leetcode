@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/krishjha1121/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/krishjha1121/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishjha1121/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/krishjha1121/Leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krishjha1121/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krishjha1121/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/krishjha1121/Leetcode/tree/master/0118-pascals-triangle) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/krishjha1121/Leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/krishjha1121/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/krishjha1121/Leetcode/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/krishjha1121/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/krishjha1121/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/krishjha1121/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/krishjha1121/Leetcode/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/krishjha1121/Leetcode/tree/master/0090-subsets-ii) |
 | [0679-24-game](https://github.com/krishjha1121/Leetcode/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/krishjha1121/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0787-sliding-puzzle](https://github.com/krishjha1121/Leetcode/tree/master/0787-sliding-puzzle) |
