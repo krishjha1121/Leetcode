@@ -1,6 +1,9 @@
 class Solution {
 private:
     int n, m;
+    vector<int> delrow = {1, 0, -1, 0};
+    vector<int> delcol = {0, 1, 0, -1};
+
     bool dfs(int row, int col, int idx, vector<vector<char>>& board, 
     vector<vector<int>>& vis, string& word) {
         if (idx == word.size()) return true;
@@ -9,8 +12,6 @@ private:
         }
 
         vis[row][col] = true;
-        int delrow[] = {1, 0, -1, 0};
-        int delcol[] = {0, 1, 0, -1};
 
         for (int i = 0; i < 4; i++) {
             int nrow = row + delrow[i];
@@ -19,6 +20,7 @@ private:
                 return true;
             }
         }
+        
         vis[row][col] = false; 
         return false;
     }
