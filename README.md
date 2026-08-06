@@ -955,4 +955,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/krishjha1121/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/krishjha1121/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
