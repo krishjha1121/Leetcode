@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/krishjha1121/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/krishjha1121/Leetcode/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/krishjha1121/Leetcode/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/krishjha1121/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/krishjha1121/Leetcode/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/krishjha1121/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/krishjha1121/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/krishjha1121/Leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/krishjha1121/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/krishjha1121/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/krishjha1121/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/krishjha1121/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/krishjha1121/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/krishjha1121/Leetcode/tree/master/0763-partition-labels) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/krishjha1121/Leetcode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/krishjha1121/Leetcode/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/krishjha1121/Leetcode/tree/master/0636-exclusive-time-of-functions) |
+| [0678-valid-parenthesis-string](https://github.com/krishjha1121/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/krishjha1121/Leetcode/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/krishjha1121/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/krishjha1121/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/krishjha1121/Leetcode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/krishjha1121/Leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/krishjha1121/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/krishjha1121/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/krishjha1121/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0787-sliding-puzzle](https://github.com/krishjha1121/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0806-domino-and-tromino-tiling](https://github.com/krishjha1121/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
@@ -969,4 +973,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/krishjha1121/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/krishjha1121/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/krishjha1121/Leetcode/tree/master/1683-invalid-tweets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/krishjha1121/Leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
