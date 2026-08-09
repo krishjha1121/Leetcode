@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/krishjha1121/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/krishjha1121/Leetcode/tree/master/0645-set-mismatch) |
 | [0679-24-game](https://github.com/krishjha1121/Leetcode/tree/master/0679-24-game) |
+| [0695-max-area-of-island](https://github.com/krishjha1121/Leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/krishjha1121/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/krishjha1121/Leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krishjha1121/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/krishjha1121/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/krishjha1121/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/krishjha1121/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0695-max-area-of-island](https://github.com/krishjha1121/Leetcode/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/krishjha1121/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/krishjha1121/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/krishjha1121/Leetcode/tree/master/0827-making-a-large-island) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/krishjha1121/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/krishjha1121/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/krishjha1121/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0695-max-area-of-island](https://github.com/krishjha1121/Leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/krishjha1121/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/krishjha1121/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/krishjha1121/Leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -759,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/krishjha1121/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/krishjha1121/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/krishjha1121/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0695-max-area-of-island](https://github.com/krishjha1121/Leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/krishjha1121/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-sliding-puzzle](https://github.com/krishjha1121/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/krishjha1121/Leetcode/tree/master/0794-swim-in-rising-water) |
@@ -913,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/krishjha1121/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/krishjha1121/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/krishjha1121/Leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/krishjha1121/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/krishjha1121/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/krishjha1121/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
