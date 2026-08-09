@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/krishjha1121/Leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/krishjha1121/Leetcode/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/krishjha1121/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0763-partition-labels](https://github.com/krishjha1121/Leetcode/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/krishjha1121/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/krishjha1121/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/krishjha1121/Leetcode/tree/master/0846-hand-of-straights) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/krishjha1121/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/krishjha1121/Leetcode/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/krishjha1121/Leetcode/tree/master/0670-maximum-swap) |
+| [0763-partition-labels](https://github.com/krishjha1121/Leetcode/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/krishjha1121/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/krishjha1121/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/krishjha1121/Leetcode/tree/master/0846-hand-of-straights) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/krishjha1121/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/krishjha1121/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/krishjha1121/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0763-partition-labels](https://github.com/krishjha1121/Leetcode/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/krishjha1121/Leetcode/tree/master/0768-partition-labels) |
 | [0848-shifting-letters](https://github.com/krishjha1121/Leetcode/tree/master/0848-shifting-letters) |
 | [0916-word-subsets](https://github.com/krishjha1121/Leetcode/tree/master/0916-word-subsets) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/krishjha1121/Leetcode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/krishjha1121/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/krishjha1121/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0763-partition-labels](https://github.com/krishjha1121/Leetcode/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/krishjha1121/Leetcode/tree/master/0768-partition-labels) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/krishjha1121/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/krishjha1121/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
