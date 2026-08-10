@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/krishjha1121/Leetcode/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/krishjha1121/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1504-count-submatrices-with-all-ones](https://github.com/krishjha1121/Leetcode/tree/master/1504-count-submatrices-with-all-ones) |
+| [1510-stone-game-iv](https://github.com/krishjha1121/Leetcode/tree/master/1510-stone-game-iv) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/krishjha1121/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/krishjha1121/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/krishjha1121/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/krishjha1121/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/krishjha1121/Leetcode/tree/master/1448-maximum-69-number) |
 | [1492-the-kth-factor-of-n](https://github.com/krishjha1121/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [1510-stone-game-iv](https://github.com/krishjha1121/Leetcode/tree/master/1510-stone-game-iv) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/krishjha1121/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/krishjha1121/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/krishjha1121/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -958,14 +960,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/krishjha1121/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/krishjha1121/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/krishjha1121/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/krishjha1121/Leetcode/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/krishjha1121/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/krishjha1121/Leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/krishjha1121/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/krishjha1121/Leetcode/tree/master/1510-stone-game-iv) |
 ## K-D Tree
 |  |
 | ------- |
@@ -982,4 +987,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/krishjha1121/Leetcode/tree/master/0678-valid-parenthesis-string) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/krishjha1121/Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/krishjha1121/Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
