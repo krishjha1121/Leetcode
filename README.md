@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/krishjha1121/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/krishjha1121/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/krishjha1121/Leetcode/tree/master/2689-rearranging-fruits) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishjha1121/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/krishjha1121/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/krishjha1121/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/krishjha1121/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/krishjha1121/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/krishjha1121/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/krishjha1121/Leetcode/tree/master/2689-rearranging-fruits) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishjha1121/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/krishjha1121/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/krishjha1121/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3583-count-special-triplets](https://github.com/krishjha1121/Leetcode/tree/master/3583-count-special-triplets) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/krishjha1121/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/krishjha1121/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/krishjha1121/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishjha1121/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Greedy
 |  |
 | ------- |
