@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/krishjha1121/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1813-maximum-erasure-value](https://github.com/krishjha1121/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/krishjha1121/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/krishjha1121/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/krishjha1121/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/krishjha1121/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/krishjha1121/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/krishjha1121/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krishjha1121/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/krishjha1121/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/krishjha1121/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/krishjha1121/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2047-find-a-peak-element-ii](https://github.com/krishjha1121/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/krishjha1121/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishjha1121/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/krishjha1121/Leetcode/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/krishjha1121/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/krishjha1121/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/krishjha1121/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/krishjha1121/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2463-minimum-total-distance-traveled](https://github.com/krishjha1121/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/krishjha1121/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/krishjha1121/Leetcode/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/krishjha1121/Leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/krishjha1121/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/krishjha1121/Leetcode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/krishjha1121/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3678-design-task-manager](https://github.com/krishjha1121/Leetcode/tree/master/3678-design-task-manager) |
@@ -1088,4 +1092,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/krishjha1121/Leetcode/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/krishjha1121/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
