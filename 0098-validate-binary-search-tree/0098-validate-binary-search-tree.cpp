@@ -11,22 +11,15 @@
  */
 class Solution {
 private:
-    void findInorder(TreeNode* node, vector<int>& in){
-        if(!node) return;
-
-        findInorder(node -> left, in);
-        in.push_back(node -> val);
-        findInorder(node -> right, in);
+    bool isPossible(TreeNode* root, long long l, long long r){
+        if(root == nullptr)  return true;
+        if(root->val < r and root->val > l) return isPossible(root->left, l, root->val) 
+        && isPossible(root->right, root->val, r);
+        return false;
     }
 public:
     bool isValidBST(TreeNode* root) {
-        if(!root) return true;
-        vector<int> inorder;
-        findInorder(root, inorder);
-
-        for(int i = 1; i < inorder.size(); i++){
-            if(inorder[i] <= inorder[i - 1]) return false;
-        }
-        return true;
+        long long min = LLONG_MIN, max = LLONG_MAX;
+        return isPossible(root, min, max);
     }
 };
