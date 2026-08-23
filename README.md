@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/krishjha1121/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/krishjha1121/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/krishjha1121/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [1927-sum-game](https://github.com/krishjha1121/Leetcode/tree/master/1927-sum-game) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/krishjha1121/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/krishjha1121/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/krishjha1121/Leetcode/tree/master/2689-rearranging-fruits) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/krishjha1121/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/krishjha1121/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/krishjha1121/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1927-sum-game](https://github.com/krishjha1121/Leetcode/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/krishjha1121/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/krishjha1121/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2833-furthest-point-from-origin](https://github.com/krishjha1121/Leetcode/tree/master/2833-furthest-point-from-origin) |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/krishjha1121/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/krishjha1121/Leetcode/tree/master/1563-stone-game-v) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/krishjha1121/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1927-sum-game](https://github.com/krishjha1121/Leetcode/tree/master/1927-sum-game) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/krishjha1121/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/krishjha1121/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/krishjha1121/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -1053,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/krishjha1121/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/krishjha1121/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/krishjha1121/Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/krishjha1121/Leetcode/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
