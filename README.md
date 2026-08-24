@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/krishjha1121/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishjha1121/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/krishjha1121/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0043-multiply-strings](https://github.com/krishjha1121/Leetcode/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/krishjha1121/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/krishjha1121/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/krishjha1121/Leetcode/tree/master/0079-word-search) |
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/krishjha1121/Leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/krishjha1121/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/krishjha1121/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/krishjha1121/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/krishjha1121/Leetcode/tree/master/0070-climbing-stairs) |
@@ -960,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/krishjha1121/Leetcode/tree/master/0043-multiply-strings) |
 | [0498-diagonal-traverse](https://github.com/krishjha1121/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2058-concatenation-of-array](https://github.com/krishjha1121/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/krishjha1121/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
