@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/krishjha1121/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/krishjha1121/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/krishjha1121/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1872-stone-game-viii](https://github.com/krishjha1121/Leetcode/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/krishjha1121/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/krishjha1121/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1980-find-unique-binary-string](https://github.com/krishjha1121/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/krishjha1121/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/krishjha1121/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/krishjha1121/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1872-stone-game-viii](https://github.com/krishjha1121/Leetcode/tree/master/1872-stone-game-viii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/krishjha1121/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/krishjha1121/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/krishjha1121/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/krishjha1121/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/krishjha1121/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0848-shifting-letters](https://github.com/krishjha1121/Leetcode/tree/master/0848-shifting-letters) |
+| [1872-stone-game-viii](https://github.com/krishjha1121/Leetcode/tree/master/1872-stone-game-viii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/krishjha1121/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/krishjha1121/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/krishjha1121/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -693,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/krishjha1121/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/krishjha1121/Leetcode/tree/master/1563-stone-game-v) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/krishjha1121/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1872-stone-game-viii](https://github.com/krishjha1121/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/krishjha1121/Leetcode/tree/master/1927-sum-game) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/krishjha1121/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/krishjha1121/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -1059,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/krishjha1121/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/krishjha1121/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/krishjha1121/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/krishjha1121/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/krishjha1121/Leetcode/tree/master/1927-sum-game) |
 ## Minimax
 |  |
@@ -1066,11 +1071,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/krishjha1121/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1406-stone-game-iii](https://github.com/krishjha1121/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/krishjha1121/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/krishjha1121/Leetcode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/krishjha1121/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/krishjha1121/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/krishjha1121/Leetcode/tree/master/1872-stone-game-viii) |
 ## K-D Tree
 |  |
 | ------- |
