@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/krishjha1121/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3583-count-special-triplets](https://github.com/krishjha1121/Leetcode/tree/master/3583-count-special-triplets) |
 | [3678-design-task-manager](https://github.com/krishjha1121/Leetcode/tree/master/3678-design-task-manager) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/krishjha1121/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/krishjha1121/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/krishjha1121/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/krishjha1121/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/krishjha1121/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/krishjha1121/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/krishjha1121/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/krishjha1121/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/krishjha1121/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/krishjha1121/Leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## String
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/krishjha1121/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/krishjha1121/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/krishjha1121/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/krishjha1121/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3797-design-spreadsheet](https://github.com/krishjha1121/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3838-weighted-word-mapping](https://github.com/krishjha1121/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Stack
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/krishjha1121/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/krishjha1121/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3583-count-special-triplets](https://github.com/krishjha1121/Leetcode/tree/master/3583-count-special-triplets) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/krishjha1121/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -775,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/krishjha1121/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/krishjha1121/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/krishjha1121/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/krishjha1121/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/krishjha1121/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Counting Sort
 |  |
