@@ -2,29 +2,31 @@ class Solution {
 public:
     long long maxScore(vector<int>& nums1, vector<int>& nums2, int k) {
         int n = nums1.size();
-        vector<pair<int, int>> ess(n);
 
-        for (int i = 0; i < n; ++i){
-            ess[i] = {nums2[i], nums1[i]};
+        vector<pair<int, int>> arr;
+        for (int i = 0; i < n; i++) {
+            arr.push_back({nums2[i], nums1[i]});
         }
+        sort(arr.begin(), arr.end(), [](auto& a, auto& b) {
+            return a.first > b.first;
+        });
 
-        sort(rbegin(ess), rend(ess));
-        long long sumS = 0, res = 0;
+        priority_queue<int,vector<int>,greater<int>> minHeap;
+        long long sum = 0;
+        long long ans = 0;
 
-        priority_queue<int, vector<int>, greater<int>> pq; // min heap
-
-        for (auto& [e, s] : ess) {
-            pq.emplace(s);
-            sumS += s;
-
-            if (pq.size() > k) {
-                sumS -= pq.top();
-                pq.pop();
+        for (auto& [num2, num1] : arr) {
+            minHeap.push(num1);
+            sum += num1;
+            if (minHeap.size() > k) {
+                sum -= minHeap.top();
+                minHeap.pop();
             }
-            
-            if (pq.size() == k) res = max(res, sumS * e);
+            if (minHeap.size() == k) {
+                long long score = sum * num2;
+                ans = max(ans, score);
+            }
         }
-
-        return res;
+        return ans;
     }
 };
