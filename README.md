@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/krishjha1121/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1046-last-stone-weight](https://github.com/krishjha1121/Leetcode/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/krishjha1121/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/krishjha1121/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/krishjha1121/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/krishjha1121/Leetcode/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/krishjha1121/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/krishjha1121/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/krishjha1121/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/krishjha1121/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/krishjha1121/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/krishjha1121/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/krishjha1121/Leetcode/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/krishjha1121/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/krishjha1121/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/krishjha1121/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0794-swim-in-rising-water](https://github.com/krishjha1121/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/krishjha1121/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krishjha1121/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/krishjha1121/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/krishjha1121/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/krishjha1121/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0973-k-closest-points-to-origin](https://github.com/krishjha1121/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/krishjha1121/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/krishjha1121/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/krishjha1121/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/krishjha1121/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/krishjha1121/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
