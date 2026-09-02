@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0916-word-subsets](https://github.com/krishjha1121/Leetcode/tree/master/0916-word-subsets) |
 | [0940-fruit-into-baskets](https://github.com/krishjha1121/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/krishjha1121/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishjha1121/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1006-vowel-spellchecker](https://github.com/krishjha1121/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1189-maximum-number-of-balloons](https://github.com/krishjha1121/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/krishjha1121/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/krishjha1121/Leetcode/tree/master/0846-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/krishjha1121/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0973-k-closest-points-to-origin](https://github.com/krishjha1121/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishjha1121/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/krishjha1121/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/krishjha1121/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/krishjha1121/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -856,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/krishjha1121/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/krishjha1121/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/krishjha1121/Leetcode/tree/master/0827-making-a-large-island) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishjha1121/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/krishjha1121/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1306-jump-game-iii](https://github.com/krishjha1121/Leetcode/tree/master/1306-jump-game-iii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/krishjha1121/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -889,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/krishjha1121/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/krishjha1121/Leetcode/tree/master/0827-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/krishjha1121/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishjha1121/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/krishjha1121/Leetcode/tree/master/1306-jump-game-iii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/krishjha1121/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/krishjha1121/Leetcode/tree/master/1462-course-schedule-iv) |
@@ -963,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/krishjha1121/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/krishjha1121/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/krishjha1121/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishjha1121/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/krishjha1121/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -990,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/krishjha1121/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/krishjha1121/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/krishjha1121/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishjha1121/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/krishjha1121/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Monotonic Stack
 |  |
