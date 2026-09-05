@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3827-implement-router](https://github.com/krishjha1121/Leetcode/tree/master/3827-implement-router) |
 | [3838-weighted-word-mapping](https://github.com/krishjha1121/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3903-smallest-stable-index-i](https://github.com/krishjha1121/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/krishjha1121/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/krishjha1121/Leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/krishjha1121/Leetcode/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## Hash Table
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/krishjha1121/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/krishjha1121/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3903-smallest-stable-index-i](https://github.com/krishjha1121/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/krishjha1121/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/krishjha1121/Leetcode/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## Two Pointers
 |  |
