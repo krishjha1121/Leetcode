@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/krishjha1121/Leetcode/tree/master/0768-partition-labels) |
 | [0848-shifting-letters](https://github.com/krishjha1121/Leetcode/tree/master/0848-shifting-letters) |
 | [0916-word-subsets](https://github.com/krishjha1121/Leetcode/tree/master/0916-word-subsets) |
+| [0940-distinct-subsequences-ii](https://github.com/krishjha1121/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/krishjha1121/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/krishjha1121/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/krishjha1121/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/krishjha1121/Leetcode/tree/master/0826-soup-servings) |
 | [0877-stone-game](https://github.com/krishjha1121/Leetcode/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/krishjha1121/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-distinct-subsequences-ii](https://github.com/krishjha1121/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/krishjha1121/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/krishjha1121/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/krishjha1121/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
