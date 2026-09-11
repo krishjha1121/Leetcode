@@ -1198,6 +1198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/krishjha1121/Leetcode/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/krishjha1121/Leetcode/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/krishjha1121/Leetcode/tree/master/1148-article-views-i) |
+| [1193-monthly-transactions-i](https://github.com/krishjha1121/Leetcode/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/krishjha1121/Leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/krishjha1121/Leetcode/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/krishjha1121/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
