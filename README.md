@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/krishjha1121/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/krishjha1121/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/krishjha1121/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/krishjha1121/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/krishjha1121/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/krishjha1121/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/krishjha1121/Leetcode/tree/master/3583-count-special-triplets) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krishjha1121/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/krishjha1121/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/krishjha1121/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/krishjha1121/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/krishjha1121/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3583-count-special-triplets](https://github.com/krishjha1121/Leetcode/tree/master/3583-count-special-triplets) |
 | [3678-design-task-manager](https://github.com/krishjha1121/Leetcode/tree/master/3678-design-task-manager) |
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/krishjha1121/Leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/krishjha1121/Leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/krishjha1121/Leetcode/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/krishjha1121/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
 | ------- |
@@ -814,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/krishjha1121/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/krishjha1121/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/krishjha1121/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/krishjha1121/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/krishjha1121/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/krishjha1121/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/krishjha1121/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
