@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/krishjha1121/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/krishjha1121/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0827-making-a-large-island](https://github.com/krishjha1121/Leetcode/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/krishjha1121/Leetcode/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/krishjha1121/Leetcode/tree/master/0846-hand-of-straights) |
 | [0848-shifting-letters](https://github.com/krishjha1121/Leetcode/tree/master/0848-shifting-letters) |
 | [0877-stone-game](https://github.com/krishjha1121/Leetcode/tree/master/0877-stone-game) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/krishjha1121/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/krishjha1121/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/krishjha1121/Leetcode/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/krishjha1121/Leetcode/tree/master/0835-image-overlap) |
 | [0945-snakes-and-ladders](https://github.com/krishjha1121/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/krishjha1121/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/krishjha1121/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
