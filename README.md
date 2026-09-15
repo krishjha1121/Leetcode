@@ -1199,6 +1199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/krishjha1121/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/krishjha1121/Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/krishjha1121/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
+| [0610-triangle-judgement](https://github.com/krishjha1121/Leetcode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/krishjha1121/Leetcode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/krishjha1121/Leetcode/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/krishjha1121/Leetcode/tree/master/1045-customers-who-bought-all-products) |
