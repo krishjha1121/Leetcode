@@ -1195,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/krishjha1121/Leetcode/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/krishjha1121/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0550-game-play-analysis-iv](https://github.com/krishjha1121/Leetcode/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/krishjha1121/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
