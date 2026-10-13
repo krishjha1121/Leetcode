@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/krishjha1121/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/krishjha1121/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/krishjha1121/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/krishjha1121/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/krishjha1121/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/krishjha1121/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/krishjha1121/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/krishjha1121/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/krishjha1121/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/krishjha1121/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/krishjha1121/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/krishjha1121/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/krishjha1121/Leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## String
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/krishjha1121/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/krishjha1121/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/krishjha1121/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/krishjha1121/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3748-sort-matrix-by-diagonals](https://github.com/krishjha1121/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/krishjha1121/Leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
