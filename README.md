@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/krishjha1121/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2047-find-a-peak-element-ii](https://github.com/krishjha1121/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/krishjha1121/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/krishjha1121/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/krishjha1121/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/krishjha1121/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/krishjha1121/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-minimum-interval-to-include-each-query](https://github.com/krishjha1121/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/krishjha1121/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2047-find-a-peak-element-ii](https://github.com/krishjha1121/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/krishjha1121/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/krishjha1121/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/krishjha1121/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/krishjha1121/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/krishjha1121/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/krishjha1121/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/krishjha1121/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/krishjha1121/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/krishjha1121/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2463-minimum-total-distance-traveled](https://github.com/krishjha1121/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2542-maximum-subsequence-score](https://github.com/krishjha1121/Leetcode/tree/master/2542-maximum-subsequence-score) |
