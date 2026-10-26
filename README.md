@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/krishjha1121/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/krishjha1121/Leetcode/tree/master/3583-count-special-triplets) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/krishjha1121/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishjha1121/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/krishjha1121/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/krishjha1121/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/krishjha1121/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/krishjha1121/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/krishjha1121/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/krishjha1121/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishjha1121/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/krishjha1121/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3748-sort-matrix-by-diagonals](https://github.com/krishjha1121/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/krishjha1121/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -903,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/krishjha1121/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/krishjha1121/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/krishjha1121/Leetcode/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishjha1121/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -941,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/krishjha1121/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/krishjha1121/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/krishjha1121/Leetcode/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishjha1121/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph
 |  |
 | ------- |
@@ -1135,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/krishjha1121/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/krishjha1121/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/krishjha1121/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishjha1121/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
