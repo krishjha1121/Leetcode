@@ -1,0 +1,18 @@
+class Solution {
+public:
+    vector<string> createGrid(int m, int n) {
+        vector<string> res;
+        for(int i = 0; i < m; i++){
+            string s(n, '#');
+            res.push_back(s);
+        }
+        for(int i = 0; i < m; i++){
+            for(int j = 0; j < n; j++){
+                if(i == 0 || j == n - 1){
+                    res[i][j] = '.';
+                }
+            }
+        }
+        return res;
+    }
+};
