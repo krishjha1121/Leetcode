@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/krishjha1121/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/krishjha1121/Leetcode/tree/master/3827-implement-router) |
 | [3838-weighted-word-mapping](https://github.com/krishjha1121/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/krishjha1121/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/krishjha1121/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/krishjha1121/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/krishjha1121/Leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/krishjha1121/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/krishjha1121/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/krishjha1121/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/krishjha1121/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/krishjha1121/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3748-sort-matrix-by-diagonals](https://github.com/krishjha1121/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/krishjha1121/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/krishjha1121/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -577,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/krishjha1121/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/krishjha1121/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/krishjha1121/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/krishjha1121/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Brainteaser
 |  |
 | ------- |
